@@ -1,0 +1,13 @@
+Date,City,Temperature,Humidity,WindSpeed,Condition
+2026-01-01,Cairo,18,45,15,Sunny
+2026-01-01,Riyadh,22,20,10,Clear
+2026-01-01,London,8,85,25,Rainy
+2026-01-02,Cairo,19,40,12,Sunny
+2026-01-02,Riyadh,25,18,15,Sunny
+2026-01-02,London,7,90,30,Rainy
+2026-01-03,Cairo,17,50,20,Cloudy
+2026-01-03,Riyadh,24,22,12,Clear
+2026-01-03,London,6,88,22,Rainy
+2026-01-04,Cairo,20,35,10,Sunny
+2026-01-04,Riyadh,28,15,8,Sunny
+2026-01-04,London,9,80,18,Cloudy
